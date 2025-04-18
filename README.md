@@ -1,5 +1,5 @@
-<p align="center"><img src="./assets/intro.gif" width="600" height="300"  /></p>
-
+[//]: # <p align="center"><img src="./assets/intro.gif" width="600" height="300"  /></p>
+<h2>Hey there👋</h2>
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
