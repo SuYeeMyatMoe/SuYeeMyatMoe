@@ -1,6 +1,6 @@
-<p align="center"><img src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=6c09b952xohvgl451mgh9fvslelpo43o0ei6fpm6d0o3zwg6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="600" height="300"  /></p>
+<p align="center"><img src="https://media3.giphy.com/media/Y4jM8hvAsxYqGwmyBp/giphy.gif" width="600" height="300"  /></p>
 <h2>Hey there👋</h2>
-### :woman_technologist: &nbsp;About Me :
+:woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
