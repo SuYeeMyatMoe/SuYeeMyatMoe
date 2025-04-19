@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media1.tenor.com/m/MKvX_qr8RmYAAAAC/computer-pusheen.gif" width="350" height="300"  /></p>
+<p align="center"><img src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif" width="300" height="300"  /></p>
 <h2>Hey there👋</h2>
 :woman_technologist: &nbsp;About Me :
 
