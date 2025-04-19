@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media3.giphy.com/media/Y4jM8hvAsxYqGwmyBp/giphy.gif" width="600" height="400"  /></p>
+<p align="center"><img src="https://media3.giphy.com/media/Y4jM8hvAsxYqGwmyBp/giphy.gif" width="450" height="300"  /></p>
 <h2>Hey there👋</h2>
 :woman_technologist: &nbsp;About Me :
 
