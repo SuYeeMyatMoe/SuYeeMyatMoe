@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif" width="300" height="300"  /></p>
+<p align="center"><img src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif" width="250" height="250"  /></p>
 <h2>Hey there👋</h2>
 :woman_technologist: &nbsp;About Me :
 
