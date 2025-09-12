@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to full stack development with Asp.net Core to build web applications.
 - 🌱 Exploring Technical News.
 - ⚡ In my free time I solve problems and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SYMM-blue%3Fstyle%3Dflat%26logo%3DLinkedin%26logoColor%3Dwhite)](https://www.linkedin.com/in/su-yee-myat-moe-b86a9b323)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SYMM-blue%3Fstyle%3Dflat%26logo%3DLinkedin%26logoColor%3Dwhite)](https://www.linkedin.com/in/su-yee-myat-moe)
 
 ---
 ### 💻 Main Tech Stack
