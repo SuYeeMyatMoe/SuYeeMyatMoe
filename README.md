@@ -1,36 +1,50 @@
-<p align="center"><img src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif" width="250" height="250"  /></p>
-<h2>Hey there👋</h2>
-:woman_technologist: &nbsp;About Me :
+<p align="center">
+  <img src="https://media.tenor.com/_mYZWyrW3AUAAAAj/peach-goma-pc-night-keyboard-smashing.gif" width="250" height="250" />
+</p>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<h2 align="center">Hey there👋</h2>
 
-- 🔭 I’m working as a Software Engineer and contributing to full stack development with Asp.net Core to build web applications.
-- 🌱 Exploring Technical News.
-- ⚡ In my free time I solve problems and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SYMM-blue%3Fstyle%3Dflat%26logo%3DLinkedin%26logoColor%3Dwhite)](https://www.linkedin.com/in/su-yee-myat-moe)
+:woman_technologist: &nbsp;**About Me** :
 
----
-### 💻 Main Tech Stack
+I am a **Full Stack & AI Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="40" height="40" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="40" height="40" />
-
+- 🔭 Currently working as a **Software Engineer**, focusing on **ASP.NET Core** web applications.  
+- 🤖 Exploring **AI Engineering**, **LangChain**, and **LLMs** as a beginner.  
+- 🌱 Always learning new tech & following **technical news**.  
+- ♟️ In my free time I **play chess**, **solve problems**, and **read tech articles**.  
+- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-SYMM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/su-yee-myat-moe)  
 
 ---
-### 🔭 Languages and Tools</h2>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Main Tech Stack  
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="blazor logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40" /> 
+
 ---
-## 📈 GitHub Stats 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuYeeMyatMoe&theme=dark) 
+### 🔭 Languages, Frameworks & Tools  
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-%2300C853.svg?style=for-the-badge&logo=openai&logoColor=white)  
+![LLMs](https://img.shields.io/badge/LLMs-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuYeeMyatMoe&theme=dark)  
 
 ---
