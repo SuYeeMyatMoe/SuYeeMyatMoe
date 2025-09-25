@@ -7,7 +7,7 @@
 :woman_technologist: &nbsp;**About Me** :  
 I am a **Full Stack & AI Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 
-- 🔭 Currently working as a **Software Engineer**, focusing on web applications.  
+- 🔭 I am a **Software Engineer**, focusing on web applications.  
 - 🤖 Exploring **AI Engineering**, **LangChain**, **FastAPI**, and **LLMs/Generative AI** as a beginner.  
 - 🌱 Always learning new tech & following **technical news**.  
 - ♟️ In my free time I **play chess**, **solve problems**, and **read tech articles**.  
