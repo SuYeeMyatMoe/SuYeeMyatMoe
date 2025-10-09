@@ -8,7 +8,7 @@
 I am a **Full Stack & AI Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 
 - 🔭 I am a **Software Engineer**, focusing on web applications.  
-- 🤖 Exploring **AI Engineering**, **LangChain**, **FastAPI**, and **LLMs/Generative AI** as a beginner.  
+- 🤖 Exploring **Machine Learning** **Deep Learning** **AI Engineering**, **LangChain**, **FastAPI**, and **LLMs/Generative AI** as a beginner.  
 - 🌱 Always learning new tech & following **technical news**.  
 - ♟️ In my free time I **play chess**, **solve problems**, and **read tech articles**.  
 - 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-SYMM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/su-yee-myat-moe)    
